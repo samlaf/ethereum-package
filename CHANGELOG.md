@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.4.0](https://github.com/ethpandaops/ethereum-package/compare/4.3.0...4.4.0) (2024-09-27)
+
+
+### Features
+
+* add resource configuration for prometheus and grafana ([#773](https://github.com/ethpandaops/ethereum-package/issues/773)) ([d296c26](https://github.com/ethpandaops/ethereum-package/commit/d296c265ab7e4e67c9c6774c665fe3b3184f9f13))
+* enable one parameter supernode, refactor el,cl,vc ([#778](https://github.com/ethpandaops/ethereum-package/issues/778)) ([8513c06](https://github.com/ethpandaops/ethereum-package/commit/8513c06020812e33a61ecaee073a165d85ed7ce0))
+
 ## [4.3.0](https://github.com/ethpandaops/ethereum-package/compare/4.2.0...4.3.0) (2024-09-23)
 
 
